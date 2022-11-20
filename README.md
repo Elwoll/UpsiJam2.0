@@ -1,14 +1,3 @@
-# Game
+# Play it on your browser 
 
-Games created during the game jam
-
-game elemets to takeinto account
-```
-MUST have 
-SHOULD have
-COULD have
-WON'T have
-```
-
-Always more
-
+Everything on this [link](https://0xonyx.itch.io/gitwars)
